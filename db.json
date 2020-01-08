@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Git cheatsheet for beginners",
+      "post": "Git is a very useful skill to have and almost necessary in many companies. Browsing job offers for software engineers, you many realize that knowing git is nearly as important as knowing an actual programming language. But still many people forget to check out how git works and what commands are responsible for what action.",
+      "user": "Duomly",
+      "avatar": "https://randomuser.me/api/portraits/men/46.jpg",
+      "likes": 10
+    },
+    {
+      "id": 2,
+      "title": "How Developers Can Design Effectively",
+      "post": "Building websites or apps requires a range of different skills. Independent of what toolset you choose you'll have to know the basics of HTML, CSS, JavaScript to some extent. Nowdays you might also have frameworks like React, Angular or Vue.js on top. Even if you're doing plain server-side rendering with something like WordPress with a bit of jQuery sprinkled on top, you'd still have two more things to get familiar with.",
+      "user": "Nils Mehlhorn",
+      "avatar": "https://res.cloudinary.com/practicaldev/image/fetch/s--6xbaGI-j--/c_fill,f_auto,fl_progressive,h_50,q_auto,w_50/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/178688/7a0c8ac3-91a0-4923-9f3b-b9f3476b96e0.png",
+      "likes": 99
+    },
+    {
+      "id": 3,
+      "title": "How Developers Can Design Effectively",
+      "post": "The term Serverless started being used in talks and discussions around 2010. To the best of my knowledge it was first mentioned in writing in 2010 in this TechCrunch announcement about a startup called PiCloud.",
+      "user": "Nader Dabit",
+      "avatar": "https://res.cloudinary.com/practicaldev/image/fetch/s--u9WQrBl1--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/126437/65564187-d564-4c5a-ae74-4b9b03182cfb.jpeg",
+      "likes": 192
+    },
+    {
+      "id": 4,
+      "title": "Develop Node app in ES6 without Nodemon and Babel",
+      "post": "I recently started a new Node.js project, and as a habit, I began by installing two familiar packages: nodemon and babel. The purpose was that I needed a way to hot reload my app while writing it in ES6 Module.",
+      "user": "Hoang",
+      "avatar": "https://res.cloudinary.com/practicaldev/image/fetch/s--AATUqTYO--/c_fill,f_auto,fl_progressive,h_50,q_auto,w_50/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/189981/901a0a7a-1ff5-4f43-9ed8-52d4f23356c6.jpeg",
+      "likes": 1199
+    }
+  ],
+}
